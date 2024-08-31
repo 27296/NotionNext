@@ -19,7 +19,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '不会编程',
   HEO_HERO_TITLE_2: '又菜又爱玩',
-  HEO_HERO_TITLE_3: '',
+  HEO_HERO_TITLE_3: 'ai',
   HEO_HERO_TITLE_4: 'AI改变世界',
   HEO_HERO_TITLE_5: '代码改变未来',
   HEO_HERO_TITLE_LINK: 'https://uaicode.com',
