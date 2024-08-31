@@ -19,7 +19,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '不会编程',
   HEO_HERO_TITLE_2: '又菜又爱玩',
-  HEO_HERO_TITLE_3: 'ai',
+  HEO_HERO_TITLE_3: 'AI-Code',
   HEO_HERO_TITLE_4: 'AI改变世界',
   HEO_HERO_TITLE_5: '代码改变未来',
   HEO_HERO_TITLE_LINK: 'https://uaicode.com',
@@ -35,15 +35,7 @@ const CONFIG = {
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
-  HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '🔍 杂乱无章',
-    '🤝 有关兴趣',
-    '🏃 无关紧要',
-    '🏠 喜薅羊毛',
-    '🤖️ 分享安好',
-    '🧱 有所作为'
-  ],
+  HEO_INFOCARD_GREETINGS: [],
 
   // // 个人资料底部按钮
   // HEO_INFO_CARD_URL1: '/about',
