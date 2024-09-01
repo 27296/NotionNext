@@ -27,7 +27,7 @@ const CONFIG = {
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '服务导航', url: 'window.location = "https://nav.uaicode.com/"'},
   HEO_HERO_CATEGORY_2: { title: '网站状态', url: 'window.location = "https://nav.uaicode.com/"' },
-  HEO_HERO_CATEGORY_3: { title: '公益GPT', url: 'window.location = "https://nav.uaicode.com/"' },
+  HEO_HERO_CATEGORY_3: { title: '公益GPT', url: '/article/7a0e2f93-9923-498f-829d-8c7b68ac3a5c' },
   
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
