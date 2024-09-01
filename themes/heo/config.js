@@ -25,8 +25,8 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://uaicode.com',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '服务导航', url: 'window.location = "https://nav.uaicode.com/"'},
-  HEO_HERO_CATEGORY_2: { title: '网站状态', url: 'window.location = "https://nav.uaicode.com/"' },
+  HEO_HERO_CATEGORY_1: { title: '服务导航', url: '/article/1bd7c385-f45b-4f9e-9a2c-1ca2ecb183bc'},
+  HEO_HERO_CATEGORY_2: { title: '网站状态', url: '/article/9dc66317-1cb4-4a11-a07b-90b426156f0f' },
   HEO_HERO_CATEGORY_3: { title: '公益GPT', url: '/article/7a0e2f93-9923-498f-829d-8c7b68ac3a5c' },
   
 
